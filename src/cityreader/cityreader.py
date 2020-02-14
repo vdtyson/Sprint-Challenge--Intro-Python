@@ -20,7 +20,6 @@ class City:
 # to read this file so that each record is imported into a City instance. Then
 # return the list with all the City instances from the function.
 # Google "python 3 csv" for references and use your Google-fu for other examples.
-csv.reader()
 # Store the instances in the "cities" list, below.
 #
 # Note that the first line of the CSV is header that describes the fields--this
